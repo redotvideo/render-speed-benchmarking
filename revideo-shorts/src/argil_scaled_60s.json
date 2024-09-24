@@ -1,0 +1,588 @@
+{
+  "systeminfo": "AVX = 0 | AVX2 = 0 | AVX512 = 0 | FMA = 0 | NEON = 1 | ARM_FMA = 1 | METAL = 1 | F16C = 0 | FP16_VA = 1 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 0 | SSSE3 = 0 | VSX = 0 | CUDA = 0 | COREML = 0 | OPENVINO = 0",
+  "model": {
+    "type": "medium",
+    "multilingual": false,
+    "vocab": 51864,
+    "audio": {
+      "ctx": 1500,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "text": {
+      "ctx": 448,
+      "state": 1024,
+      "head": 16,
+      "layer": 24
+    },
+    "mels": 80,
+    "ftype": 1
+  },
+  "params": {
+    "model": "/Users/justusmattern/Projects/company/remotion-vs-revideo/remotion-shorts/whisper.cpp/ggml-medium.en.bin",
+    "language": "en",
+    "translate": false
+  },
+  "result": {
+    "language": "en"
+  },
+  "transcription": [
+    {
+      "text": "At a YC",
+      "startInSeconds": 0.24
+    },
+    {
+      "text": "event",
+      "startInSeconds": 1.02
+    },
+    {
+      "text": "last",
+      "startInSeconds": 1.3
+    },
+    {
+      "text": "week,",
+      "startInSeconds": 1.56
+    },
+    {
+      "text": "Brian",
+      "startInSeconds": 1.9
+    },
+    {
+      "text": "Chesky",
+      "startInSeconds": 2.16
+    },
+    {
+      "text": "gave",
+      "startInSeconds": 2.5
+    },
+    {
+      "text": "a talk",
+      "startInSeconds": 2.68
+    },
+    {
+      "text": "that everyone",
+      "startInSeconds": 3.16
+    },
+    {
+      "text": "who was",
+      "startInSeconds": 3.74
+    },
+    {
+      "text": "there",
+      "startInSeconds": 4.14
+    },
+    {
+      "text": "will",
+      "startInSeconds": 4.34
+    },
+    {
+      "text": "remember.",
+      "startInSeconds": 4.74
+    },
+    {
+      "text": "Most",
+      "startInSeconds": 5.52
+    },
+    {
+      "text": "founders",
+      "startInSeconds": 5.86
+    },
+    {
+      "text": "I talked",
+      "startInSeconds": 6.06
+    },
+    {
+      "text": "to afterwards",
+      "startInSeconds": 6.5
+    },
+    {
+      "text": "said it was",
+      "startInSeconds": 7.16
+    },
+    {
+      "text": "the best",
+      "startInSeconds": 7.58
+    },
+    {
+      "text": "they'd",
+      "startInSeconds": 7.98
+    },
+    {
+      "text": "ever",
+      "startInSeconds": 8.24
+    },
+    {
+      "text": "heard.",
+      "startInSeconds": 8.56
+    },
+    {
+      "text": "Ron",
+      "startInSeconds": 9.3
+    },
+    {
+      "text": "Conway,",
+      "startInSeconds": 9.68
+    },
+    {
+      "text": "for",
+      "startInSeconds": 10.2
+    },
+    {
+      "text": "the first",
+      "startInSeconds": 10.34
+    },
+    {
+      "text": "time",
+      "startInSeconds": 10.8
+    },
+    {
+      "text": "in his",
+      "startInSeconds": 10.92
+    },
+    {
+      "text": "life,",
+      "startInSeconds": 11.42
+    },
+    {
+      "text": "forgot to",
+      "startInSeconds": 11.94
+    },
+    {
+      "text": "take",
+      "startInSeconds": 12.36
+    },
+    {
+      "text": "notes.",
+      "startInSeconds": 12.7
+    },
+    {
+      "text": "I'm not",
+      "startInSeconds": 12.94
+    },
+    {
+      "text": "going",
+      "startInSeconds": 13.24
+    },
+    {
+      "text": "to try",
+      "startInSeconds": 13.38
+    },
+    {
+      "text": "to reproduce",
+      "startInSeconds": 13.66
+    },
+    {
+      "text": "it here.",
+      "startInSeconds": 14.22
+    },
+    {
+      "text": "Instead,",
+      "startInSeconds": 15.2
+    },
+    {
+      "text": "I want",
+      "startInSeconds": 15.36
+    },
+    {
+      "text": "to talk",
+      "startInSeconds": 15.62
+    },
+    {
+      "text": "about",
+      "startInSeconds": 15.98
+    },
+    {
+      "text": "a question",
+      "startInSeconds": 16.18
+    },
+    {
+      "text": "it raised.",
+      "startInSeconds": 16.64
+    },
+    {
+      "text": "The",
+      "startInSeconds": 17.44
+    },
+    {
+      "text": "theme",
+      "startInSeconds": 17.64
+    },
+    {
+      "text": "of Brian's",
+      "startInSeconds": 17.82
+    },
+    {
+      "text": "talk",
+      "startInSeconds": 18.58
+    },
+    {
+      "text": "was that",
+      "startInSeconds": 18.96
+    },
+    {
+      "text": "the",
+      "startInSeconds": 19.3
+    },
+    {
+      "text": "conventional",
+      "startInSeconds": 19.82
+    },
+    {
+      "text": "wisdom",
+      "startInSeconds": 20.22
+    },
+    {
+      "text": "about",
+      "startInSeconds": 20.62
+    },
+    {
+      "text": "how",
+      "startInSeconds": 20.86
+    },
+    {
+      "text": "to run",
+      "startInSeconds": 21.08
+    },
+    {
+      "text": "larger",
+      "startInSeconds": 21.64
+    },
+    {
+      "text": "companies",
+      "startInSeconds": 22.1
+    },
+    {
+      "text": "is mistaken.",
+      "startInSeconds": 22.48
+    },
+    {
+      "text": "As AirBnB",
+      "startInSeconds": 23.9
+    },
+    {
+      "text": "grew,",
+      "startInSeconds": 24.82
+    },
+    {
+      "text": "well-meaning",
+      "startInSeconds": 25.5
+    },
+    {
+      "text": "people",
+      "startInSeconds": 26.22
+    },
+    {
+      "text": "advised",
+      "startInSeconds": 26.7
+    },
+    {
+      "text": "him",
+      "startInSeconds": 26.94
+    },
+    {
+      "text": "that",
+      "startInSeconds": 27.14
+    },
+    {
+      "text": "he had",
+      "startInSeconds": 27.28
+    },
+    {
+      "text": "to run",
+      "startInSeconds": 27.66
+    },
+    {
+      "text": "the",
+      "startInSeconds": 28
+    },
+    {
+      "text": "company",
+      "startInSeconds": 28.3
+    },
+    {
+      "text": "in a",
+      "startInSeconds": 28.54
+    },
+    {
+      "text": "certain",
+      "startInSeconds": 28.96
+    },
+    {
+      "text": "way",
+      "startInSeconds": 29.26
+    },
+    {
+      "text": "for",
+      "startInSeconds": 29.5
+    },
+    {
+      "text": "it to",
+      "startInSeconds": 29.64
+    },
+    {
+      "text": "scale.",
+      "startInSeconds": 30.16
+    },
+    {
+      "text": "Their",
+      "startInSeconds": 30.64
+    },
+    {
+      "text": "advice",
+      "startInSeconds": 30.96
+    },
+    {
+      "text": "could",
+      "startInSeconds": 31.22
+    },
+    {
+      "text": "be optimistically",
+      "startInSeconds": 31.44
+    },
+    {
+      "text": "summarized",
+      "startInSeconds": 32.72
+    },
+    {
+      "text": "as \"hire",
+      "startInSeconds": 33.28
+    },
+    {
+      "text": "good",
+      "startInSeconds": 34.18
+    },
+    {
+      "text": "people",
+      "startInSeconds": 34.64
+    },
+    {
+      "text": "and give",
+      "startInSeconds": 35.1
+    },
+    {
+      "text": "them",
+      "startInSeconds": 35.54
+    },
+    {
+      "text": "room",
+      "startInSeconds": 35.78
+    },
+    {
+      "text": "to do",
+      "startInSeconds": 36.02
+    },
+    {
+      "text": "their",
+      "startInSeconds": 36.38
+    },
+    {
+      "text": "jobs\".",
+      "startInSeconds": 36.74
+    },
+    {
+      "text": "He followed",
+      "startInSeconds": 37.86
+    },
+    {
+      "text": "this",
+      "startInSeconds": 38.4
+    },
+    {
+      "text": "advice",
+      "startInSeconds": 38.82
+    },
+    {
+      "text": "and the",
+      "startInSeconds": 39.2
+    },
+    {
+      "text": "results",
+      "startInSeconds": 39.68
+    },
+    {
+      "text": "were",
+      "startInSeconds": 39.96
+    },
+    {
+      "text": "disastrous,",
+      "startInSeconds": 40.54
+    },
+    {
+      "text": "so he",
+      "startInSeconds": 40.96
+    },
+    {
+      "text": "had",
+      "startInSeconds": 41.3
+    },
+    {
+      "text": "to figure",
+      "startInSeconds": 41.5
+    },
+    {
+      "text": "out a",
+      "startInSeconds": 41.9
+    },
+    {
+      "text": "better",
+      "startInSeconds": 42.24
+    },
+    {
+      "text": "way",
+      "startInSeconds": 42.46
+    },
+    {
+      "text": "on his",
+      "startInSeconds": 42.66
+    },
+    {
+      "text": "own, which",
+      "startInSeconds": 43.22
+    },
+    {
+      "text": "he did",
+      "startInSeconds": 43.96
+    },
+    {
+      "text": "partly",
+      "startInSeconds": 44.54
+    },
+    {
+      "text": "by studying",
+      "startInSeconds": 44.78
+    },
+    {
+      "text": "how",
+      "startInSeconds": 45.44
+    },
+    {
+      "text": "Steve",
+      "startInSeconds": 45.78
+    },
+    {
+      "text": "Jobs",
+      "startInSeconds": 46.04
+    },
+    {
+      "text": "ran Apple.",
+      "startInSeconds": 46.36
+    },
+    {
+      "text": "So far,",
+      "startInSeconds": 47.74
+    },
+    {
+      "text": "it",
+      "startInSeconds": 48.2
+    },
+    {
+      "text": "seems",
+      "startInSeconds": 48.34
+    },
+    {
+      "text": "to be",
+      "startInSeconds": 48.56
+    },
+    {
+      "text": "working.",
+      "startInSeconds": 49.06
+    },
+    {
+      "text": "AirBnB's",
+      "startInSeconds": 49.76
+    },
+    {
+      "text": "free",
+      "startInSeconds": 50.5
+    },
+    {
+      "text": "cash",
+      "startInSeconds": 50.8
+    },
+    {
+      "text": "flow",
+      "startInSeconds": 51.06
+    },
+    {
+      "text": "margin",
+      "startInSeconds": 51.44
+    },
+    {
+      "text": "is now",
+      "startInSeconds": 51.66
+    },
+    {
+      "text": "among",
+      "startInSeconds": 52.06
+    },
+    {
+      "text": "the best",
+      "startInSeconds": 52.26
+    },
+    {
+      "text": "in Silicon",
+      "startInSeconds": 52.72
+    },
+    {
+      "text": "Valley.",
+      "startInSeconds": 53.38
+    },
+    {
+      "text": "The",
+      "startInSeconds": 53.78
+    },
+    {
+      "text": "audience",
+      "startInSeconds": 54.1
+    },
+    {
+      "text": "at this",
+      "startInSeconds": 54.34
+    },
+    {
+      "text": "event",
+      "startInSeconds": 54.86
+    },
+    {
+      "text": "included",
+      "startInSeconds": 55.34
+    },
+    {
+      "text": "a lot",
+      "startInSeconds": 55.56
+    },
+    {
+      "text": "of the",
+      "startInSeconds": 55.9
+    },
+    {
+      "text": "most",
+      "startInSeconds": 56.26
+    },
+    {
+      "text": "successful",
+      "startInSeconds": 56.76
+    },
+    {
+      "text": "founders",
+      "startInSeconds": 57.24
+    },
+    {
+      "text": "we funded,",
+      "startInSeconds": 57.5
+    },
+    {
+      "text": "and",
+      "startInSeconds": 58.72
+    },
+    {
+      "text": "one after",
+      "startInSeconds": 59.02
+    },
+    {
+      "text": "another...",
+      "startInSeconds": 59.86
+    }
+  ]
+}
